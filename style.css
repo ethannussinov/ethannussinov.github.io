@@ -1,0 +1,14 @@
+#var1 {
+font-size: 40px;
+
+}
+body {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+header{
+    border: solid;
+border-width: 1px;
+border-color: black;
+margin: 0;
+}
